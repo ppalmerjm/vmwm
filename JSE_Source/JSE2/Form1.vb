@@ -476,7 +476,7 @@ Public Class Form1
 
                 ' logger.Info("FROM VB ---BuyOrder : {0} ----- SellOrde : {1} ", BuyOrder, SelOrder)
 
-                '--------------------------get broker numer------------
+                '--------------------------get broker number------------
                 If sAction = "Buy" Then
                     sBrokerNumber = item.Field(Of String)("AggressorBrokerID")
                 Else
