@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<GV8APIDATA >
+<COMPANY CompanyID="1" Action="Query" CompanyCode="JSE" CompanyName="Jamaica Stock Exchange" CompanyDetails="" CompanyType="Broker" IsExchange="true"/>
+<COMPANY CompanyID="6" Action="Query" CompanyCode="1" CompanyName="Mayberry Investments Limited" CompanyDetails="1 1/2 Oxford Road
+Kingston 5
+929-1908-9" CompanyType="Trader"/>
+<COMPANY CompanyID="7" Action="Query" CompanyCode="3" CompanyName="Stocks &amp; Securities Limited" CompanyDetails="24 - 26 Grenada Crescent
+Kingston 5
+929-3400" CompanyType="Trader"/>
+<COMPANY CompanyID="8" Action="Query" CompanyCode="4" CompanyName="Barita Investments Limited" CompanyDetails="15 St. Lucia Way
+Kingston 5
+926-2681" CompanyType="Trader"/>
+<COMPANY CompanyID="9" Action="Query" CompanyCode="7" CompanyName="MVL Stockbrokers Limited" CompanyDetails="2 - 6 Grenada Crescent
+Kingston 5
+960-1570" CompanyType="Trader"/>
+<COMPANY CompanyID="10" Action="Query" CompanyCode="9" CompanyName="NCB Capital Markets Limited" CompanyDetails="10 - 16 Grenada Way
+Kingston 5
+960-7108" CompanyType="Trader"/>
+<COMPANY CompanyID="11" Action="Query" CompanyCode="10" CompanyName="Victoria Mutual Wealth Management" CompanyDetails="52 - 60 Grenada Crescent
+Kingston 5
+960-5000-2" CompanyType="Trader"/>
+<COMPANY CompanyID="12" Action="Query" CompanyCode="14" CompanyName="First Global Financial Services Limited" CompanyDetails="1 St. Lucia Crescent
+Kingston 5
+926-1275" CompanyType="Trader"/>
+<COMPANY CompanyID="13" Action="Query" CompanyCode="15" CompanyName="Capital &amp; Credit Securities Limited" CompanyDetails="6 Grenada Way
+Kingston 5
+960-2134" CompanyType="Trader"/>
+<COMPANY CompanyID="14" Action="Query" CompanyCode="16" CompanyName="Scotia Investments Jamaica Limited" CompanyDetails="7 Holborn Road
+Kingston 10
+960-6699" CompanyType="Trader"/>
+<COMPANY CompanyID="15" Action="Query" CompanyCode="17" CompanyName="JMMB Securities Limited" CompanyDetails="6 Haughton Terrace
+Kingston 10
+920-5039" CompanyType="Trader"/>
+<COMPANY CompanyID="16" Action="Query" CompanyCode="18" CompanyName="Pan Caribbean Financial Services Limited" CompanyDetails="60 Knutsford Blvd
+Kingston 5
+929-5583" CompanyType="Trader"/>
+<COMPANY CompanyID="17" Action="Query" CompanyCode="MO" CompanyName="Market Observers" CompanyDetails="" CompanyType="Broker"/>
+<COMPANY CompanyID="18" Action="Query" CompanyCode="2" CompanyName="Proven Wealth Limited" CompanyDetails="26 Belmont Road Kingston5 908-3800-1" CompanyType="Trader"/></GV8APIDATA>
