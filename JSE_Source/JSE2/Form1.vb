@@ -222,7 +222,7 @@ Public Class Form1
     Private Sub ParseXmlToCsv()
         Dim dsTrades As New DataSet
         Dim tTrades As DataTable
-        Dim tTe8rm As DataTable
+        Dim tTerm As DataTable
         Dim InstSpecifier As DataTable
         Dim tOrders As DataTable
         Dim tOrder As DataTable
@@ -543,7 +543,7 @@ Public Class Form1
 
 
     Private Sub ResetDailyPricesXML()
-        If System.IO.`File.Exists(TRADES_XML_FILE_NAME) = True Then
+        If System.IO.File.Exists(TRADES_XML_FILE_NAME) = True Then
             System.IO.File.Delete(TRADES_XML_FILE_NAME)
         End If
 
